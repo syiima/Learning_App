@@ -6,16 +6,16 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import { inject, observer, Provider } from 'mobx-react';
 import { Camera, Permissions, ImagePicker, MapView  } from 'expo';
 
-import ayam from '../asset/alphabet/ayam.jpg';
-import a from '../asset/alphabet/a.jpg';
-import bola from '../asset/alphabet/bola.jpg';
-import b from '../asset/alphabet/b.jpg';
-import cawan from '../asset/alphabet/cawan.jpg';
-import c from '../asset/alphabet/c.jpg';
-import daun from '../asset/alphabet/daun.jpg';
-import d from '../asset/alphabet/d.jpg';
-import epal from '../asset/alphabet/epal.jpg';
-import e from '../asset/alphabet/e.jpg';
+import ayam from '../module1/ayam.jpg';
+import a from '../module1/a.jpg';
+import bola from '../module1/bola.jpg';
+import b from '../module1/b.jpg';
+import cawan from '../module1/cawan.jpg';
+import c from '../module1/c.jpg';
+import daun from '../module1/daun.jpg';
+import d from '../module1/d.jpg';
+import epal from '../module1/epal.jpg';
+import e from '../module1/e.jpg';
 
 import Card from './cardtemplate.js';
 

@@ -6,18 +6,18 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import { inject, observer, Provider } from 'mobx-react';
 import { Camera, Permissions, ImagePicker, MapView  } from 'expo';
 
-import a from '../asset/Module5/1_front.jpg';
-import b from '../asset/Module5/1_back.jpg';
-import c from '../asset/Module5/2_front.jpg';
-import d from '../asset/Module5/2_back.jpg';
-import e from '../asset/Module5/3_front.jpg';
-import f from '../asset/Module5/3_back.jpg';
-import g from '../asset/Module5/4_front.jpg';
-import h from '../asset/Module5/4_back.jpg';
-import i from '../asset/Module5/5_front.jpg';
-import j from '../asset/Module5/5_back.jpg';
+import a from '../Module5/1_front.jpg';
+import b from '../Module5/1_back.jpg';
+import c from '../Module5/2_front.jpg';
+import d from '../Module5/2_back.jpg';
+import e from '../Module5/3_front.jpg';
+import f from '../Module5/3_back.jpg';
+import g from '../Module5/4_front.jpg';
+import h from '../Module5/4_back.jpg';
+import i from '../Module5/5_front.jpg';
+import j from '../Module5/5_back.jpg';
 
-import Card from './cardtemplate.js';
+import Card from './Pages/cardtemplate.js';
 
 export default class Numbers extends React.Component{
 

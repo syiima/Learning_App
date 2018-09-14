@@ -6,11 +6,11 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import { inject, observer, Provider } from 'mobx-react';
 import { Camera, Permissions, ImagePicker, MapView  } from 'expo';
 
-import chick from '../asset/icon/chick.png';
-import egg from '../asset/icon/egg.png';
-import food from '../asset/icon/burger.png';
-import animal from '../asset/icon/cat.png';
-import place from '../asset/icon/tower.png';
+import chick from '../image/chick.png';
+import egg from '../image/egg.png';
+import food from '../image/icon/burger.png';
+import animal from '../image/icon/cat.png';
+import place from '../image/icon/tower.png';
 
 import CardNum from './basic2.js';
 import Family from './family.js';

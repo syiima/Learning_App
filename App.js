@@ -11,13 +11,13 @@ import { Camera, Permissions, ImagePicker, MapView  } from 'expo';
 const CONST_HEIGHT = Dimensions.get('window').height;
 const CONST_WIDTH = Dimensions.get('window').width;
 
-import loginimage from './asset/image/login.jpg';
-import rainbow from './asset/image/rainbow.jpg';
-import iconimage from './asset/image/icon.png';
+import loginimage from './image/login.jpg';
+import rainbow from './image/rainbow.jpg';
+import iconimage from './image/icon.png';
 
-import Learn from './Learning/learn.js';
-import Practice from './Learning/practice.js';
-import Shop from './Learning/shop.js';
+import Learn from './Pages/learn.js';
+import Practice from './Pages/practice.js';
+import Shop from './Pages/shop.js';
 
 import stores from "./stores";
 

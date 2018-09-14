@@ -6,16 +6,16 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import { inject, observer, Provider } from 'mobx-react';
 import { Camera, Permissions, ImagePicker, MapView  } from 'expo';
 
-import a from '../asset/Module2/1_front.jpg';
-import b from '../asset/Module2/1_back.jpg';
-import c from '../asset/Module2/2_front.jpg';
-import d from '../asset/Module2/2_back.jpg';
-import e from '../asset/Module2/3_front.jpg';
-import f from '../asset/Module2/3_back.jpg';
-import g from '../asset/Module2/4_front.jpg';
-import h from '../asset/Module2/4_back.jpg';
-import i from '../asset/Module2/5_front.jpg';
-import j from '../asset/Module2/5_back.jpg';
+import a from '../asset/1_front.jpg';
+import b from '../asset/1_back.jpg';
+import c from '../asset/2_front.jpg';
+import d from '../asset/2_back.jpg';
+import e from '../asset/3_front.jpg';
+import f from '../asset/3_back.jpg';
+import g from '../asset/4_front.jpg';
+import h from '../asset/4_back.jpg';
+import i from '../asset/5_front.jpg';
+import j from '../asset/5_back.jpg';
 
 import Card from './cardtemplate.js';
 
